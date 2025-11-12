@@ -1,11 +1,10 @@
 {
-  "name": "Test de Plazos de la Ley 39/2015",
-  "short_name": "Test 39/2015",
-  "description": "Una aplicación simple para practicar los plazos de la Ley 39/2015.",
-  "start_url": "/index.html",
+  "name": "Pazos Ley 39/2015",
+  "short_name": "Plazo 39/2015",
+  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#e9f5ff",
-  "theme_color": "#004d99",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
   "icons": [
     {
       "src": "icon-512x512.png",
@@ -19,7 +18,3 @@
     }
   ]
 }
-
-
-
-
