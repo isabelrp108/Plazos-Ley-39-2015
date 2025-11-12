@@ -1,5 +1,5 @@
 {
-  "name": "Test de Plazos de la Ley 39/2015 (10 Preguntas)",
+  "name": "Test de Plazos de la Ley 39/2015",
   "short_name": "Test 39/2015",
   "description": "Una aplicación simple para practicar los plazos de la Ley 39/2015.",
   "start_url": "/index.html",
@@ -19,5 +19,6 @@
     }
   ]
 }
+
 
 
